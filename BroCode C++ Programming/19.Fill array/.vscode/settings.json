@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.vue": "cpp",
+    "algorithm": "cpp",
+    "*.tcc": "cpp"
+  }
+}
